@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisaru</h1>
-<h3 align="center">A passionate IT undergraduate from Sri Lanka <br> BSc (Hons) in information technology undergraduate at Sri Lanka Institute of Information Technology (SLIIT) </h3>
+<h3 align="center">A passionate IT undergraduate from Sri Lanka <br>🎓 BSc (Hons) in information technology at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaru01&label=Profile%20views&color=0e75b6&style=flat" alt="thisaru01" /> </p>
 
