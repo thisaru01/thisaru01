@@ -29,7 +29,7 @@
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40"/></a>
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/></a>
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="40" height="40"/></a>
+  <!--<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="40" height="40"/></a>-->
 </p>
 
 <br>
