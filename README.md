@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaru01&label=Profile%20views&color=0e75b6&style=flat" alt="thisaru01" /> </p>
 
 <!--- 🔭 I’m currently working on **Employee Management System Project**-->
-- 🌱 I’m currently learning **MERN Stack and Data Analytics**
+- 🌱 I’m currently learning **Data Science**
 - 📫 How to reach me **thisarumiuranga@gmail.com**
 
 <br>
