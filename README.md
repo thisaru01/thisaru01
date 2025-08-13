@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thisaru</h1>
-<h3 align="center">A passionate IT undergraduate from Sri Lanka <br>🎓 BSc (Hons) in information technology at SLIIT</h3>
+<h3 align="center">A passionate IT undergraduate from Sri Lanka <br>🎓 BSc (Hons) in Information Technology Specializing in Software Engineering at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaru01&label=Profile%20views&color=0e75b6&style=flat" alt="thisaru01" /> </p>
 
 <!--- 🔭 I’m currently working on **Employee Management System Project**-->
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Software Engineering**
 - 📫 How to reach me **thisarumiuranga@gmail.com**
 
 <br>
